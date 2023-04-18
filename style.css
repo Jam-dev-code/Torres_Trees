@@ -1,0 +1,84 @@
+.body {
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: right left;
+    background-attachment: fixed;
+}
+
+.trees1 {
+    float: left;
+    width: 600px;
+}
+
+.trees2 {
+    float: right;
+    width: 600px;
+
+
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+.black {
+    color: black;
+}
+
+.joyce-kilmer {
+    color: rgb(41, 27, 231);
+    text-decoration: underline;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    font-display;
+    color: black;
+    background-color: #ffffff;
+}
+
+.tree {
+    color: green;
+}
+
+.god {
+    color: rgb(88, 18, 168);
+    font-weight: bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+    height: 30px;
+}
+
+sub {
+    vertical-align: sub;
+    font-size: smaller;
+}
+
+mark {
+    background-color: yellow;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
